@@ -1,24 +1,129 @@
-# 💫 About Me:
-Basic Information<br>Full Name<br><br>Muhammad Zaid Saqib<br><br>Short Bio<br><br>Option 1 (Professional ⭐⭐⭐⭐⭐)<br><br>Cybersecurity Student | SOC Intern | Blue Team Enthusiast | Passionate about Threat Detection, SIEM, Network Security, Linux, and Ethical Hacking. Continuously building practical cybersecurity labs and documenting real-world projects.<br><br>Option 2<br><br>Aspiring SOC Analyst focused on Blue Team Operations, Network Security, Incident Response, and Threat Detection. Currently gaining hands-on experience through cybersecurity labs, internships, and practical security projects.<br><br>Location<br><br>📍 Pakistan<br><br>🛠 Tech Stack<br>Programming<br>Python<br>C++<br>SQL<br>Bash<br>Operating Systems<br>Kali Linux<br>Ubuntu<br>Windows<br>Networking<br>TCP/IP<br>DNS<br>HTTP/HTTPS<br>DHCP<br>Routing<br>Switching<br>VPN<br>Subnetting<br>Cybersecurity<br>SOC Operations<br>Threat Detection<br>Incident Response<br>Log Analysis<br>Web Security<br>Vulnerability Assessment<br>Network Security<br>Security Monitoring<br>SIEM / Monitoring<br>Wazuh<br>Suricata<br>Zeek<br>Sysmon<br>Web Security<br>Burp Suite<br>OWASP ZAP<br>SQLMap<br>Virtualization<br>VMware Workstation<br>VirtualBox<br>Firewalls<br>pfSense<br>Databases<br>MySQL<br>MariaDB<br>Version Control<br>Git<br>GitHub<br>Tools<br>VS Code<br>Wireshark<br>Nmap<br>Hydra<br>John the Ripper<br>Metasploit (Learning)<br>Netcat<br>Currently Learning<br>Splunk<br>DFIR<br>Malware Analysis<br>Threat Hunting<br>Active Directory<br>Microsoft Sentinel<br>🚀 Featured Projects<br><br>Here are the projects you should pin.<br><br>1️⃣ Wazuh SIEM Home Lab<br><br>Description<br><br>Built a complete Wazuh SIEM lab for centralized log monitoring, alert generation, and security event analysis using Kali Linux and Ubuntu virtual machines.<br><br>Tech<br><br>Wazuh<br>Ubuntu<br>Kali Linux<br>Linux<br>VirtualBox<br>2️⃣ pfSense Firewall Lab<br><br>Description<br><br>Configured pfSense firewall with WAN/LAN interfaces, DNS, NAT, firewall rules, DHCP, and package management to simulate enterprise network security.<br><br>Tech<br><br>pfSense<br>Networking<br>Firewall<br>Virtualization<br>3️⃣ SOC Internship Tasks<br><br>Description<br><br>Collection of completed SOC internship assignments covering phishing analysis, log investigation, web application security, networking, SIEM, and incident response.<br><br>Tech<br><br>Cybersecurity<br>SOC<br>Blue Team<br>4️⃣ FalconStrix<br><br>Description<br><br>Hybrid Cybersecurity Monitoring & Detection System integrating system monitoring, simulated attacks, database logging, and security state visualization.<br><br>Tech<br><br>Python<br>C++<br>MariaDB<br>Linux<br>Cybersecurity<br>5️⃣ TryHackMe Writeups<br><br>Description<br><br>Documented walkthroughs, notes, and learning from practical cybersecurity labs including networking, Linux, web exploitation, and privilege escalation.<br><br>6️⃣ Networking Labs<br><br>Description<br><br>Practical networking labs covering TCP/IP, DNS, HTTP, packet analysis, routing, subnetting, and firewall configuration.<br><br>📊 GitHub Stats<br><br>Enable all:<br><br>✅ GitHub Stats<br><br>✅ GitHub Streak<br><br>✅ Most Used Languages<br><br>✅ Activity Graph<br><br>✅ Contribution Graph<br><br>🌐 Social Links<br><br>GitHub<br><br>https://github.com/YourUsername<br><br>LinkedIn<br><br>https://linkedin.com/in/muhammad-zaid-saqib<br><br>Email<br><br>your-email@gmail.com<br><br>Portfolio<br><br>(Add later)<br><br>📫 Contact<br>📧 Email: your-email@gmail.com<br><br>💼 LinkedIn:<br>https://linkedin.com/in/muhammad-zaid-saqib<br><br>🐙 GitHub:<br>https://github.com/YourUsername<br>🎯 About Me Section<br><br>This is what I'd recommend for the section shown in your screenshot.<br><br>🔭 I'm currently working on<br>FalconStrix – Hybrid Cybersecurity Monitoring & Detection System<br>SOC Internship Tasks & Documentation<br>Wazuh SIEM Home Lab<br>Building enterprise-level cybersecurity labs<br>👯 I'm looking to collaborate on<br>Open Source Cybersecurity Projects<br>SIEM & Threat Detection<br>Blue Team Tools<br>Security Automation<br>Python Security Scripts<br>🤝 I'm looking for help with<br>Threat Hunting<br>Malware Analysis<br>Digital Forensics (DFIR)<br>Active Directory Security<br>Cloud Security (Azure & AWS)<br>🌱 I'm currently learning<br>Splunk<br>Microsoft Sentinel<br>Active Directory<br>Malware Analysis<br>Threat Hunting<br>Detection Engineering<br>Python Automation<br>💬 Ask me about<br>Linux<br>Networking<br>Wazuh<br>pfSense<br>Web Security<br>Python<br>SQL<br>GitHub<br>Cybersecurity Labs<br>SOC Fundamentals<br>⚡ Fun Fact<br><br>Choose one:<br><br>I enjoy building cybersecurity labs that simulate real-world enterprise environments.<br><br>or<br><br>I learn best by breaking things safely and understanding how to defend them.<br><br>or<br><br>Every cybersecurity lab teaches me something new—there's always another challenge to solve.<br><br>🏆 Skills Section<br>Cybersecurity<br>SOC Operations<br>Blue Team<br>Threat Detection<br>Incident Response<br>Network Security<br>Linux<br>Windows<br>Python<br>C++<br>SQL<br>MySQL<br>MariaDB<br>Git<br>GitHub<br>Networking<br>TCP/IP<br>DNS<br>HTTP<br>SIEM<br>Wazuh<br>Suricata<br>Zeek<br>Wireshark<br>Nmap<br>Burp Suite<br>OWASP ZAP<br>pfSense<br>VMware<br>VirtualBox<br>Bash<br>📌 Pin These Repositories<br>FalconStrix<br>SOC Internship Tasks<br>Wazuh Home Lab<br>pfSense Lab<br>TryHackMe Writeups<br>Networking Labs<br>💼 Repository Description Examples<br><br>Instead of generic names, use descriptive repository summaries:<br><br>Repository	Description<br>FalconStrix	Hybrid Cybersecurity Monitoring & Detection System using Python, C++, MariaDB, and Linux<br>SOC Internship Tasks	Hands-on SOC internship assignments covering phishing analysis, SIEM, networking, and incident response<br>Wazuh Home Lab	Security monitoring lab using Wazuh SIEM for log analysis and threat detection<br>pfSense Lab	Enterprise firewall lab with WAN/LAN configuration, NAT, DNS, DHCP, and firewall rules<br>TryHackMe Writeups	Educational walkthroughs and notes for networking, Linux, web exploitation, and privilege escalation<br>Networking Labs	Practical networking exercises covering TCP/IP, DNS, HTTP, subnetting, routing, and packet analysis<br>Repository Topics / Tags<br><br>Add these tags where relevant:<br><br>cybersecurity<br>soc<br>blue-team<br>siem<br>wazuh<br>linux<br>network-security<br>python<br>cpp<br>sql<br>mariadb<br>mysql<br>pfsense<br>suricata<br>zeek<br>wireshark<br>nmap<br>burpsuite<br>owasp<br>incident-response<br>threat-detection<br>ethical-hacking<br>virtualization<br>kali-linux<br>ubuntu
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=640&lines=root%40zaid%3A~%24+whoami;Muhammad+Zaid+Saqib;Blue+Team+%7C+Red+Team+%7C+Web+Security;Detect.+Exploit.+Defend." alt="Typing SVG" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-zaid-saqib-4b2323371) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zaidsaqib32@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MuhammadZaidSaqib&theme=date_night&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MuhammadZaidSaqib&theme=date_night&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MuhammadZaidSaqib&theme=date_night&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<a href="https://www.linkedin.com/in/muhammad-zaid-saqib-4b2323371"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39D353" /></a>
+<a href="mailto:zaidsaqib32@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39D353" /></a>
+<a href="https://tryhackme.com/p/Jokerthedevil32"><img src="https://img.shields.io/badge/TryHackMe-0D1117?style=for-the-badge&logo=tryhackme&logoColor=39D353" /></a>
+<img src="https://komarev.com/ghpvc/?username=MuhammadZaidSaqib&style=for-the-badge&color=39D353&label=PROFILE+VIEWS" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MuhammadZaidSaqib&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MuhammadZaidSaqib&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=MuhammadZaidSaqib&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```bash
+root@zaid:~$ cat about.txt
+```
+
+```yaml
+name:        Muhammad Zaid Saqib
+role:        Cybersecurity Student | Purple Team (SOC + Offensive Security)
+education:   BS Cyber Security @ Pak-Austria Fachhochschule (PAF-IAST)
+location:    Sahiwal, Pakistan
+blue_team:   [SOC Operations, SIEM, Threat Detection, Incident Response, Log Analysis]
+red_team:    [Web App Pentesting, Vulnerability Assessment, Network Recon, Exploitation]
+philosophy:  "To defend a system, learn how it breaks."
+```
+
+---
+
+```bash
+root@zaid:~$ ls ./projects --featured
+```
+
+| Project | Description | Stack |
+|:--|:--|:--|
+| [**FalconStrix**](https://github.com/MuhammadZaidSaqib/FalconStrix-) | Hybrid cybersecurity monitoring system combining OS-level monitoring, database logging, a GUI dashboard, and hardware FSM-based security logic | Python, C++, MariaDB, Linux |
+| [**SentinelX**](https://github.com/MuhammadZaidSaqib/SentinelX-Real-Time-Fraud-Intelligence) | Real-time fraud detection using ML, deep learning autoencoders, and graph-based analysis over Kafka streams | Python, Kafka, Deep Learning |
+| [**VulnSpectra**](https://github.com/MuhammadZaidSaqib/VulnSpectra) | Automated network vulnerability scanner with service detection and CVE intelligence analysis | Python, Nmap, CVE APIs |
+| [**VulnX-Pro**](https://github.com/MuhammadZaidSaqib/VulnX-Pro) | Modular web vulnerability scanner detecting SQL injection and reflected XSS, with crawler, dashboard, and REST API | Python, Flask, SQLite |
+| [**AegisNet**](https://github.com/MuhammadZaidSaqib/Aegisnet) | End-to-end encrypted messenger using Diffie-Hellman key exchange and AES-256-GCM | Python, Cryptography |
+
+---
+
+```bash
+root@zaid:~$ cat arsenal.conf
+```
+
+**Blue Team / SOC**
+
+![Wazuh](https://img.shields.io/badge/Wazuh-0D1117?style=flat-square&logo=wazuh&logoColor=39D353)
+![Splunk](https://img.shields.io/badge/Splunk-0D1117?style=flat-square&logo=splunk&logoColor=39D353)
+![Suricata](https://img.shields.io/badge/Suricata-0D1117?style=flat-square&logoColor=39D353)
+![Zeek](https://img.shields.io/badge/Zeek-0D1117?style=flat-square&logoColor=39D353)
+![Sysmon](https://img.shields.io/badge/Sysmon-0D1117?style=flat-square&logo=windows&logoColor=39D353)
+![pfSense](https://img.shields.io/badge/pfSense-0D1117?style=flat-square&logo=pfsense&logoColor=39D353)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=flat-square&logo=wireshark&logoColor=39D353)
+
+**Red Team / Web Security**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-0D1117?style=flat-square&logo=burpsuite&logoColor=39D353)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0D1117?style=flat-square&logo=owasp&logoColor=39D353)
+![Metasploit](https://img.shields.io/badge/Metasploit-0D1117?style=flat-square&logo=metasploit&logoColor=39D353)
+![Nmap](https://img.shields.io/badge/Nmap-0D1117?style=flat-square&logoColor=39D353)
+![SQLMap](https://img.shields.io/badge/SQLMap-0D1117?style=flat-square&logoColor=39D353)
+![Hydra](https://img.shields.io/badge/Hydra-0D1117?style=flat-square&logoColor=39D353)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-0D1117?style=flat-square&logoColor=39D353)
+
+**Languages and Platforms**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=39D353)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=39D353)
+![Bash](https://img.shields.io/badge/Bash-0D1117?style=flat-square&logo=gnubash&logoColor=39D353)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=39D353)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0D1117?style=flat-square&logo=kalilinux&logoColor=39D353)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=flat-square&logo=ubuntu&logoColor=39D353)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=39D353)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-0D1117?style=flat-square&logo=virtualbox&logoColor=39D353)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=39D353)
+
+---
+
+```bash
+root@zaid:~$ tail -f learning.log
+```
+
+```diff
++ [IN PROGRESS]  Splunk and Microsoft Sentinel
++ [IN PROGRESS]  Detection Engineering and Threat Hunting
++ [IN PROGRESS]  Active Directory Attacks and Defense
++ [IN PROGRESS]  Malware Analysis and DFIR
++ [IN PROGRESS]  Advanced Web Exploitation (OWASP Top 10)
+```
+
+---
+
+```bash
+root@zaid:~$ ./tryhackme --profile Jokerthedevil32
+```
+
+<div align="center">
+<a href="https://tryhackme.com/p/Jokerthedevil32"><img src="https://tryhackme-badges.s3.amazonaws.com/Jokerthedevil32.png" alt="TryHackMe" /></a>
+</div>
+
+---
+
+```bash
+root@zaid:~$ ./stats --user MuhammadZaidSaqib
+```
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=MuhammadZaidSaqib&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39D353&icon_color=39D353&text_color=C9D1D9&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MuhammadZaidSaqib&layout=compact&hide_border=true&bg_color=0D1117&title_color=39D353&text_color=C9D1D9" />
+
+<img src="https://streak-stats.demolab.com/?user=MuhammadZaidSaqib&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=30363D" />
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+root@zaid:~$ echo "Open to internships, CTF teams, and security collaborations."
+```
+
+</div>
